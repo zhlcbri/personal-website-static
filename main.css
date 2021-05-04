@@ -1,0 +1,22 @@
+a {
+    opacity: 1;
+    color:green;
+    text-decoration: none;
+}
+
+a:hover {
+    color:green;
+    text-decoration: underline;
+}
+
+body {
+    background-color: #ffffe6;
+}
+
+.container {
+    display:flex;
+    flex-direction: column;
+    padding: 2rem;
+    max-width: 1000px;
+    background-color: #ffffe6;
+}
